@@ -1,0 +1,18 @@
+{
+	"method": "download",
+	"params": {
+		"file_list": [
+			{
+				"size": "23071",
+				"local_path": "//root/Server/redisdata",
+				"type": 5,
+				"url": "....",
+				"md5": "aa7094c447715e62cbac3ebe0f3f7922"
+			}
+		],
+		"tenantId": "119446177",
+		"action": "start",
+		"type": 5,
+		"taskId": "389dbede13244"
+	}
+}
